@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Improving my JavaScript and React.js skills by building interactive web apps, and contributing to open-source projects related to frontend development.<br>🤝 I’m looking for help with Open-source contributions, understanding complex JavaScript patterns, and mastering frontend testing tools and libraries.<br>🌱 I’m currently learning Advanced React (Hooks, Context API, and performance optimization), TypeScript, and AWS fundamentals for frontend deployment and scalability.<br>💬 Ask me about Frontend development, component libraries, debugging JavaScript, integrating APIs, and building responsive UIs.<br>⚡ Fun fact I can spend hours perfecting a single animation or UI detail — because I believe the small things make a big difference!
+
 
 
 ## 🌐 Socials:
