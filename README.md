@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Developing full-stack applications using React.js, Node.js, and MongoDB, with a focus on building scalable platforms and improving software quality through structured testing.<br><br>👯 I’m looking to collaborate on:<br>Web development projects, cloud-based solutions, and application support initiatives.<br><br>🤝 I’m looking for help with:<br>Landing an internship or full-time role in software development or application support engineering.<br><br>🌱 I’m currently learning:<br>Advanced QA practices, functional test planning, and cloud-native deployment strategies.<br><br>💬 Ask me about:<br>Full-stack development, software testing, debugging techniques, and building REST APIs.<br><br>⚡ Fun fact:<br>I enjoy creating tech solutions that make life easier—and I can turn coffee into clean, working code!
-
+🔭 I’m currently working on:<br>Developing full-stack applications using React.js, Node.js, and MongoDB, with a focus on building scalable platforms and improving software quality 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivansh-verma-a88092188/) 
